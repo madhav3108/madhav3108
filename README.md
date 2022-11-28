@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align ="centre"
+     <img src = "https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx"
+</div>     
