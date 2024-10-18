@@ -11,7 +11,11 @@
 - 📫 How to reach me **madhavjadon31@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/121KI8wrLhRGvpLvKvYuTots1b8LEVCWu/view?usp=share_link](https://drive.google.com/file/d/121KI8wrLhRGvpLvKvYuTots1b8LEVCWu/view?usp=share_link)
 
+<h2 align="center">🏆Trophies🏆<h2>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav3108&label=Profile%20views&color=0e75b6&style=flat" alt="madhav3108" /> </p>
 
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav3108" alt="madhav3108" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
