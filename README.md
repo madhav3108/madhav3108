@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/@madhav2631" target="blank"><img src="https://img.shields.io/twitter/follow/@madhav2631?logo=twitter&style=for-the-badge" alt="@madhav2631" /></a> </p>
 
-- 🔭 I’m currently working on **Front end**
+- 🔭 I’m currently working on **Java SpringBoot**
 
-- 🌱 I’m currently learning **CSS and JS**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **madhavjadon31@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/121KI8wrLhRGvpLvKvYuTots1b8LEVCWu/view?usp=share_link](https://drive.google.com/file/d/121KI8wrLhRGvpLvKvYuTots1b8LEVCWu/view?usp=share_link)
